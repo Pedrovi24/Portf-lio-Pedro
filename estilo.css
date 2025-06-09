@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+:root {
+    --cor-principal: #6E859F;
+    --cor-secundaria: #284260;
+    --cor-destaque: #C92BFC;
+}
+corpo{
+familia de fontes:'Chakra Petch',sem serifa;
+cor: var(--cor-principal);
+h1, h2, h5{
+cor: var(--cor-secundaria);
+espessura da fonte: 700;
+.liderar,.btn-link{
+cor: var(--cor-destaque);
+espessura da fonte: 700;
+um,.btn-link:pairar{
+}
+cor: var(--cor-principal)
+um:pairar{
+cor: var(--cor-destaque);
+}
